@@ -13,3 +13,7 @@ Rolling log of progress...
 
 (05:16:16 AM) df: install.log shows a C:\Program Files\CyberGhost 5\CertMaker.pdb being installed, open that up in a text/hex editor and there's this string: "removeFiddlerGeneratedCerts". i wonder if that refers to the Fiddler program @ http://www.telerik.com/fiddler that can be used to do mitm SSL
 
+
+df: CertMaker.dll in C:\Program Files (x86)\Fiddler2\ .. there's also a CertMaker.dll in C:\Program Files\CyberGhost 5\ (altho slightly different file sizes/timestamps), they both contain the string "FiddlerApplication" along with a few others
+df: so CyberGhost 5 is using Fiddler 2 for something, or atleast parts of Fiddler 2
+df: http://www.telerik.com/fiddler/fiddlercore - "FiddlerCore allows you to integrate HTTP/HTTPS traffic viewing and modification capabilities into your .NET application, without any of the Fiddler UI."
