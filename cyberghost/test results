@@ -7,3 +7,9 @@ https://twitter.com/badjin_rank/status/569653516102291456
 
 https://malwr.com/analysis/YTRjYmQzNTNmMTNkNDRhOTkwZDU4OTc3NDYwNWI1NjE/
 
+Rolling log of progress...
+
+(05:18:04 AM) df: when you start the main .exe is says "Checking public certificate..." then says "Download required - Your system requires additional components to be downloaded blah blah blah should CyberGhost 5 download this stuff now?"'
+
+(05:16:16 AM) df: install.log shows a C:\Program Files\CyberGhost 5\CertMaker.pdb being installed, open that up in a text/hex editor and there's this string: "removeFiddlerGeneratedCerts". i wonder if that refers to the Fiddler program @ http://www.telerik.com/fiddler that can be used to do mitm SSL
+
