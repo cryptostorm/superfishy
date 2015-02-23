@@ -5,7 +5,15 @@ https://www.virustotal.com/en/url/ab5d28f8de1eca5cf893f013e308bcbf484d4b8aeb8c16
 Tip comes from this tweet:
 https://twitter.com/badjin_rank/status/569653516102291456
 
+Some more in-depth unpacking data:
 https://malwr.com/analysis/YTRjYmQzNTNmMTNkNDRhOTkwZDU4OTc3NDYwNWI1NjE/
+
+Information on .pfx,a mostly-dead Microsoft standard for "securely" packing private keys and certs into one cryptographically bonded file:
+https://www.cs.auckland.ac.nz/~pgut001/pubs/pfx.html
+
+http://en.wikipedia.org/wiki/PKCS_1
+"Microsoft's "PFX" has received heavy criticism of being one of the most complex cryptographic protocols.[7]"
+
 
 Rolling log of progress...
 
