@@ -1,4 +1,17 @@
 
+It seems unlikely that the fiddler toolset is really malware in any meaningful sense - it's marketed quite obviously (and genuinely) as a testing framework for optimising browser performance and whatnot. That's a big market, sorely in need of these sorts of tools. Doesn't seem nefarious.
+
+However, when one reads through such materials - having been around people who do bad things with tech in various amazingly creative ways - one cannot help but think... "oh heavens, this won't end well."
+
+It won't.
+
+All indications are that cyberghost is using unlicensed fiddler2 code, and a faked-up cert/key set to do code/device signing as root on installed machines... so it's not really fair to blame the fiddler folks for that. And we shouldn't. This is nice tech, built for a real purpose and supported as such. It's a shame it can go wrong so quickly... but these things happen.
+
+So it goes...
+
+
+https://malwr.com/analysis/YzMwM2VmMTcwMzU2NDk2MmI5YzYzYjJlZmI1ZWU0MDQ/
+
 
 Here's the fiddler2 framework we're pretty sure is being used in the cyberghost binaries:
 http://docs.telerik.com/fiddler/Configure-Fiddler/Tasks/ConfigureDotNETApp
