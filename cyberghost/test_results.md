@@ -63,3 +63,13 @@ Managing the Digital Signature or Code Signing Keys
 https://msdn.microsoft.com/en-us/library/windows/hardware/ff548699(v=vs.85).aspx
 
 The cryptographic keys that are at the heart of the Authenticode signing process must be well protected and treated with the same care as the publisher's most valuable assets. These keys represent an organization's identity. Any code that is signed with these keys appears to Windows as if it contains a valid digital signature that can be traced to the organization. If the keys are stolen, they could be used to fraudulently sign malicious code and possibly result in the delivery of code that contains Trojan or a virus that appears to come from a legitimate publisher.
+
+
+...aaand a random dump of links so they don't go walkabout:
+http://jsunpack.jeek.org/?report=5f6f05d82855e10605de73dedfc370a8d57fbd5b
+https://www.ssllabs.com/ssltest/analyze.html?d=cyberghost.com
+http://jsunpack.jeek.org/?report=c8df6cdf4ae4f6e4d908b47be9f44336a4b5f00c
+https://www.virustotal.com/en/file/ff9bbfd17010414d04b9f1291b7d79658a24097a56f4e525084dff5e96931136/analysis/1424658561/
+https://www.virustotal.com/en/file/e920f2f7f8eb470058c24eb609aa41c2cf883080d73259bb80dd40677529785b/analysis/
+
+
