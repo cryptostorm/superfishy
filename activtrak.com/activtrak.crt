@@ -1,3 +1,60 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            74:f3:35:3d:f6:16:fc:81:4c:23:05:d2:91:7c:57:d4
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=WIN-GL21PPBT11E
+        Validity
+            Not Before: Jul 26 20:10:10 2014 GMT
+            Not After : Jul 26 00:00:00 2015 GMT
+        Subject: CN=WIN-GL21PPBT11E
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:cb:09:bf:fc:e8:e1:6c:e2:72:a8:f8:64:1d:da:
+                    87:54:0f:2d:fe:f8:83:fd:e6:70:f6:0f:16:70:8f:
+                    e4:34:a2:96:09:fe:51:d4:37:49:8a:bd:26:f4:91:
+                    8a:fd:26:e4:db:4c:06:32:26:18:db:cf:c0:30:a7:
+                    ce:7d:ab:dd:5a:d2:9f:3a:ae:4d:0c:81:83:b4:82:
+                    0d:65:24:3a:74:7e:4e:98:b0:d3:a6:30:39:1a:dd:
+                    ea:84:4a:0b:46:53:94:10:4a:5a:a9:e6:d1:81:67:
+                    ba:24:3c:8a:a1:ca:bd:23:1c:d9:d6:e2:42:fb:ad:
+                    67:98:13:15:c7:91:f3:4a:a3:cb:6c:86:c3:d5:c0:
+                    92:6e:41:fe:5e:e9:5c:21:ef:86:79:4c:1a:bb:ee:
+                    6d:81:b0:a0:b2:6a:3a:32:81:9d:a5:fd:f8:8f:94:
+                    6c:b7:19:27:6e:43:85:b7:99:81:2d:03:2a:03:3e:
+                    bc:80:a2:a0:71:e0:01:c6:4b:04:02:cf:c2:2a:b6:
+                    ad:d8:57:44:35:11:88:9a:c3:bb:80:d4:1a:ed:29:
+                    de:40:9d:b7:d2:c4:a8:d8:e4:3e:74:aa:35:e4:b7:
+                    48:ae:fc:3c:c3:cb:01:38:0e:6a:36:3e:34:83:73:
+                    6a:0a:ff:9f:13:0e:6a:08:12:22:15:f9:eb:e9:46:
+                    24:03
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: 
+                Key Encipherment, Data Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+    Signature Algorithm: sha1WithRSAEncryption
+         3f:d4:1e:75:90:46:71:7b:c4:30:f0:25:03:c8:2f:fd:08:72:
+         bd:a8:e7:8c:45:dc:99:cc:3f:e0:52:a8:a7:75:df:cd:50:8d:
+         9d:0b:51:b3:b4:2f:6e:bd:95:67:37:00:6e:00:16:51:77:75:
+         8c:d4:16:23:87:60:8b:09:86:79:a7:5c:94:aa:78:82:95:6b:
+         70:c8:57:d6:5d:c8:4b:49:a4:70:74:d7:7b:48:91:da:01:c3:
+         d1:40:6e:cc:f2:4a:f7:b5:4e:f7:2d:49:fe:b2:b7:d4:a8:e8:
+         95:5b:ad:73:74:ba:c8:4b:55:a2:ff:78:63:7f:35:e2:8f:27:
+         36:65:71:8b:5b:d5:b3:b6:09:a7:72:18:4f:f6:f9:22:12:df:
+         5a:35:ce:b9:80:52:52:92:66:fd:9b:ad:a3:a7:72:7e:39:55:
+         fa:7b:eb:f9:c1:40:5f:91:63:fe:46:72:10:da:ed:42:7a:e5:
+         54:3f:25:ae:1b:ec:a1:b1:13:b5:04:27:f6:03:be:1d:57:e6:
+         98:30:2a:71:5a:f6:b4:8f:14:db:47:0a:8f:ae:ea:43:36:1a:
+         da:95:a2:d1:86:5c:e4:39:d2:63:ca:0c:5b:65:89:c4:a0:c1:
+         32:97:ca:00:cc:6b:70:fa:16:77:68:82:81:dd:22:1e:df:19:
+         12:ab:2d:ac
+
+
 # Signature Algorithm=
 # Serial=74F3353DF616FC814C2305D2917C57D4
 # Subject=/CN=WIN-GL21PPBT11E
