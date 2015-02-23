@@ -61,3 +61,8 @@ Please send pull requests, mail me interesting items or upload them
 [here](https://briefkasten.hboeck.de).
 
 Hanno Böck, https://hboeck.de/
+
+
+Sticking this here, hanno, as it's terrifically useful for those of us doing binary analysis on this project (well, those of us who aren't smart enough to use the real tools, eh?):
+
+https://malwr.com
